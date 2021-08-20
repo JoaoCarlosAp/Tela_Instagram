@@ -2,5 +2,5 @@
 Clonando tela do Instagram
 
 <html>                
-    <img src="./img/perfil-instagram.jpg" alt="Foto de Perfil">
+    <img src="./img/perfil-instagram02.png" alt="Foto de Perfil">
 </html>
